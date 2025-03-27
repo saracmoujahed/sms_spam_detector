@@ -84,7 +84,7 @@ The text message: "Congratulations! You've won a free iPhone. Click here to clai
 ---
 
 ### 🎥 Demo  
-[🔗 Live Gradio App](https://ea2df1f0ee507fde38.gradio.live/) *(Add link when deployed)*  
+[🔗 Live Gradio App](https://ea2df1f0ee507fde38.gradio.live/)
 
 ---
 
