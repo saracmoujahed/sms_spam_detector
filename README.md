@@ -1,7 +1,4 @@
 # sms_spam_detector
-Here's a **README.md** file for your project:  
-
----
 
 ## 📱 SMS Spam Detector  
 
